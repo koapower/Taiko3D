@@ -1,0 +1,2 @@
+The python file is the one that translates .osu file to .csv file this project uses. make sure to change the file name in the script if you want to use it.
+You can look inside the Content/testmap.uasset to know the stucture. It was just designed to be used with red=no hitsound, blue=hitclap(8)
